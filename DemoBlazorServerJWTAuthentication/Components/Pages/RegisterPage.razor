@@ -1,0 +1,61 @@
+﻿@page "/register"
+@rendermode InteractiveServer
+
+@inject IAccountService accountService
+@inject IJSRuntime js
+@inject NavigationManager NavManager
+@inject AuthenticationStateProvider AuthStateProvider
+
+<div class="row">
+    <div class="col-sm-4">
+        <h2>Register</h2>
+        <EditForm Model="@Register" OnValidSubmit="RegisterClicked">
+            <DataAnnotationsValidator />
+            <div class="form-group">
+                <label class="form-label">Name</label>
+                <InputText @bind-Value="Register.Name" class="form-control"></InputText>
+            </div>
+            <div class="form-group mt-3">
+                <label class="form-label">Email Address</label>
+                <InputText @bind-Value="Register.Email" class="form-control"></InputText>
+            </div>
+            <div class="form-group mt-3">
+                <label class="form-label">Password</label>
+                <InputText @bind-Value="Register.Password" type="password" class="form-control"></InputText>
+            </div>
+            <div class="form-group mt-3">
+                <label class="form-label">Confirm Password</label>
+                <InputText @bind-Value="Register.ConfirmPassword" type="password" class="form-control"></InputText>
+            </div>
+            <div class="form-group mt-3">
+                <button class="btn btn-primary" type="submit">Register</button>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    public RegisterDTO Register { get; set; } = new RegisterDTO();
+
+    async Task RegisterClicked()
+    {
+        try
+        {
+            RegistrationResponse response = await accountService.RegisterAsync(Register);
+            if (!response.Flag)
+            {
+               // await js.InvokeVoidAsync("alert", response.Message);
+                Register = new RegisterDTO(); // Clear the form on failure
+                return;
+            }
+
+            // Optionally handle successful registration, e.g., redirect to login page
+            NavManager.NavigateTo("/login");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+            throw; // Optional: rethrow the exception for debugging purposes
+        }
+    }
+}

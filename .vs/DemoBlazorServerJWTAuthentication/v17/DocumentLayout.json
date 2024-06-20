@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\components\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\components\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\components\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\components\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\responses\\customresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\responses\\customresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|c:\\users\\abdulmalik\\source\\repos\\demoblazorserverjwtauthentication\\demoblazorserverjwtauthentication\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87D622B9-625F-4E18-946C-A1B58905BE37}|DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication.csproj|solutionrelative:demoblazorserverjwtauthentication\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:05:16.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterPage.razor",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Pages\\RegisterPage.razor",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Components\\Pages\\RegisterPage.razor",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Pages\\RegisterPage.razor",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Components\\Pages\\RegisterPage.razor",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:24:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomResponses.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Responses\\CustomResponses.cs",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Responses\\CustomResponses.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Responses\\CustomResponses.cs",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Responses\\CustomResponses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:19:38.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Services\\AccountService.cs",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:45:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Services\\IAccountService.cs",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:32:14.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Pages\\LoginPage.razor",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Components\\Pages\\LoginPage.razor",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Pages\\LoginPage.razor",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Components\\Pages\\LoginPage.razor",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T16:48:28.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Routes.razor",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T16:53:42.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DemoBlazorServerJWTAuthentication\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DemoBlazorServerJWTAuthentication\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T16:59:53.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

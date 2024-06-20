@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoBlazorServerJWTAuthentication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DemoBlazorServerJWTAuthentication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdulmalik\\source\\repos\\DemoBlazorServerJWTAuthentication\\DemoBlazorServerJWTAuthentication\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DemoBlazorServerJWTAuthentication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DemoBlazorServerJWTAuthentication.props",
+      "PackagePath": "build\\DemoBlazorServerJWTAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoBlazorServerJWTAuthentication.props",
+      "PackagePath": "buildMultiTargeting\\DemoBlazorServerJWTAuthentication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DemoBlazorServerJWTAuthentication.props",
+      "PackagePath": "buildTransitive\\DemoBlazorServerJWTAuthentication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
